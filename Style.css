@@ -1,0 +1,20 @@
+h1 {
+    color: royalblue;
+    text-align: center;
+}
+
+.Start Training {
+    padding-left: 100px;
+    padding-right: 100px;
+    border: cyan;
+    color: cornflowerblue;
+}
+
+p {
+    font-size: 14px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h2 {
+    color: cornflowerblue;
+}
